@@ -1,6 +1,6 @@
 # Hey, I'm Anirudh 👋
 
-I'm an MBA student specialising in **Business Analytics** at Alliance University, Bengaluru. I like the part of the job where the spreadsheet stops being noise and starts being a story.
+I'm an MBA student specialising in **Business Analytics & Fintech** at Alliance University, Bengaluru. I like the part of the job where the spreadsheet stops being noise and starts being a story.
 
 My internship at **Re-Sustainability Limited** is where most of my real work happened — I built Power BI dashboards tracking operational KPIs across multiple facilities, automated MIS reporting templates that used to eat up hours every week, and consolidated scattered data pipelines into something people could actually use to make decisions.
 
