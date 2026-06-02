@@ -2,9 +2,9 @@
 
 I'm an MBA student specialising in **Business Analytics & Fintech** at Alliance University, Bengaluru. I like the part of the job where the spreadsheet stops being noise and starts being a story.
 
-My internship at **Re-Sustainability Limited** is where most of my real work happened — I built Power BI dashboards tracking operational KPIs across multiple facilities, automated MIS reporting templates that used to eat up hours every week, and consolidated scattered data pipelines into something people could actually use to make decisions.
+My internship at **Re-Sustainability Limited** is where most of my real work happened -I built Power BI dashboards tracking operational KPIs across multiple facilities, automated MIS reporting templates that used to eat up hours every week, and consolidated scattered data pipelines into something people could actually use to make decisions.
 
-Outside of data, I do photography, play badminton, hold a Karate green belt, and try to stay involved in community development work. That background makes me better at my job — I know how to communicate across rooms, not just across spreadsheets.
+Outside of data, I do photography, play badminton, hold a Karate green belt, and try to stay involved in community development work. That background makes me better at my job -I know how to communicate across rooms, not just across spreadsheets.
 
 ---
 
